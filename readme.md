@@ -1,6 +1,6 @@
 
 
-Auto Farm
+Auto Far
 • Infinite Pet Speed
 • Auto Farm
 • Auto Collect Coins/Lootbags/Diamonds/Items
