@@ -1,4 +1,4 @@
-loadstring(game:HttpGet("https://pastebin.com/raw/ThUxKnmg"))()
+loadstring(game:HttpGet("https://pastebin.com/raw/Rz0dmgyA"))()
 
 Auto Farm
 
