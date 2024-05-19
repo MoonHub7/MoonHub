@@ -1,4 +1,4 @@
-
+loadstring(game:HttpGet("https://raw.githubusercontent.com/MoonHub7/MoonHub/main/PS99.lua"))()
 
 Auto Farm
 
