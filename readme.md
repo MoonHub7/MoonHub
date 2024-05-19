@@ -1,6 +1,7 @@
 
 
-Auto Far
+Auto Farm
+
 • Infinite Pet Speed
 • Auto Farm
 • Auto Collect Coins/Lootbags/Diamonds/Items
@@ -14,25 +15,30 @@ Auto Far
 • Auto Use TNT Crate
 
 Egg
+
 • Auto Open Egg
 • Disable Egg Animation
 • Auto Make Pets Gold - Premium
 • Auto Make Rainbow Gold - Premium
 
 Auto Quest
+
 • Auto Area Quest
 • Ignore Some Area Quest
 
 Auto Rank
+
 • Auto Rank Quest
 • Ignore Some Rank Quest
 
 Booth Sniper
+
 • Snipe Booth 
 • Snipe Win Value
 • Server Hop Interval
 
 Main
+
 • Auto Claim Playtime Rewards
 • Auto Claim Rank Rewards
 • Auto Claim Daily Chest
@@ -42,6 +48,7 @@ Main
 • Auto Buy Vending Machines
 
 Automatic
+
 • Auto Eat Fruits
 • Auto Use Buffs
 • Auto Use Potions
@@ -53,10 +60,12 @@ Automatic
 • Auto Upgrade Enchants
 
 Chest
+
 • Open All Daily Chest
 • Break All Boss Chest
 
 Minigames
+
 • Enter to Obby (All Obbys)
 • Finish the Obby (All Obbys)
 • Auto Minifield
@@ -68,6 +77,7 @@ Minigames
 • Chest ESP (For Digsite)
 
 Teleport
+
 • Teleport to Main World
 • Teleport to Tech World
 • Teleport to Trading World
@@ -79,6 +89,7 @@ Teleport
 
 
 Misc
+
 • FPS Booster
 • White Screen
 • Server Hop
