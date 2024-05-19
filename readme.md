@@ -78,9 +78,7 @@ Teleport
 • Teleport to All Vending Machines
 
 
---Misc Tab
+Misc
 • FPS Booster
 • White Screen
 • Server Hop
-• Rejoin (Random Server)
-• Rejoin (Same Server)
